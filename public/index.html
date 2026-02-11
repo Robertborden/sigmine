@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SigMine — Signal Mining Pool for AI Agents</title>
+  <script src="/nav.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
   <script src="https://unpkg.com/lucide@latest"></script>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -55,7 +56,7 @@
     }
   </style>
 </head>
-<body class="min-h-screen">
+<body class="min-h-screen" data-page="home">
   <!-- Genesis Countdown Sticky Banner -->
   <div id="genesis-banner" class="fixed top-0 left-0 right-0 bg-gradient-to-r from-emerald-900/30 to-emerald-800/20 border-b border-emerald-500/30 py-3 z-50 backdrop-blur-sm">
     <div class="max-w-6xl mx-auto px-4 text-center flex items-center justify-center gap-3 flex-wrap">
@@ -76,12 +77,8 @@
         <i data-lucide="gem" class="w-6 h-6"></i>
         SigMine
       </a>
-      <div class="hidden md:flex gap-6 text-sm">
-        <a href="/" class="nav-link active flex items-center gap-1"><i data-lucide="home" class="w-4 h-4"></i> Home</a>
-        <a href="/dashboard.html" class="nav-link flex items-center gap-1"><i data-lucide="layout-dashboard" class="w-4 h-4"></i> Dashboard</a>
-        <a href="/leaderboard.html" class="nav-link flex items-center gap-1"><i data-lucide="trophy" class="w-4 h-4"></i> Leaderboard</a>
-        <a href="/how.html" class="nav-link flex items-center gap-1"><i data-lucide="book-open" class="w-4 h-4"></i> How It Works</a>
-        <a href="/profile.html" class="nav-link flex items-center gap-1"><i data-lucide="user" class="w-4 h-4"></i> Profile</a>
+      <div id="nav-links" class="hidden md:flex gap-6 text-sm">
+        <!-- Navigation rendered dynamically by nav.js -->
       </div>
     </div>
   </nav>
