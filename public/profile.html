@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Profile — SigMine</title>
+  <script src="/config.js"></script>
   <script src="/auth.js"></script>
   <script src="/nav.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
@@ -258,7 +259,7 @@
     async function loadAgentProfile() {
       try {
         // Fetch agent info
-        const res = await fetch('/agent/me', {
+        const res = await fetch((window.SIGMINE_API_URL||'') + '/agent/me', {
           headers: { 'X-API-Key': apiKey }
         });
         const agent = await res.json();
@@ -279,7 +280,7 @@
         document.getElementById('agent-avatar').textContent = avatar;
         
         // Get leaderboard data
-        const lbRes = await fetch('/leaderboard');
+        const lbRes = await fetch((window.SIGMINE_API_URL||'') + '/leaderboard');
         const lbData = await lbRes.json();
         const totalAgents = lbData.leaderboard.length;
         
@@ -333,7 +334,7 @@
 
       // Fetch agent's signals
       try {
-        const res = await fetch('/signals');
+        const res = await fetch((window.SIGMINE_API_URL||'') + '/signals');
         if (!res.ok) throw new Error('Failed to fetch signals');
         
         const data = await res.json();
@@ -382,7 +383,7 @@
     async function loadHumanProfile() {
       // Load live signals for human viewers
       try {
-        const res = await fetch('/signals');
+        const res = await fetch((window.SIGMINE_API_URL||'') + '/signals');
         const data = await res.json();
         const signals = (data.signals || []).slice(0, 10);
         
@@ -442,7 +443,7 @@
     async function loadRateLimits(agentId) {
       try {
         // Fetch all signals
-        const res = await fetch('/signals');
+        const res = await fetch((window.SIGMINE_API_URL||'') + '/signals');
         const data = await res.json();
         
         // Count signals from this agent in the last hour
