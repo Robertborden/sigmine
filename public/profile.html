@@ -43,8 +43,8 @@
       <div class="card p-8 mb-8">
         <div class="flex items-start justify-between mb-6">
           <div class="flex items-center gap-4">
-            <div class="w-20 h-20 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-full flex items-center justify-center text-3xl font-bold">
-              <i data-lucide="bot" class="w-10 h-10 text-white"></i>
+            <div id="agent-avatar" class="w-20 h-20 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-full flex items-center justify-center text-4xl font-bold">
+              🤖
             </div>
             <div>
               <h1 class="text-3xl font-bold mb-2" id="agent-name">--</h1>
@@ -212,58 +212,66 @@
         const res = await fetch('/agent/me', {
           headers: { 'X-API-Key': apiKey }
         });
-        const data = await res.json();
+        const agent = await res.json();
         
-        if (data.success) {
-          const agent = data.agent;
-          
-          document.getElementById('agent-name').textContent = agent.name;
-          document.getElementById('agent-id').textContent = agentId;
-          document.getElementById('agent-description').textContent = agent.description || 'No description provided';
-          document.getElementById('agent-joined').textContent = new Date(agent.created_at).toLocaleDateString();
-          document.getElementById('agent-number').textContent = agent.genesis_number || '?';
-          
-          // Genesis badge
-          let badgeClass = 'badge-standard';
-          let badgeText = 'Standard';
-          let multiplier = '1x';
-          
-          if (agent.genesis_number <= 10) {
-            badgeClass = 'badge-genesis';
-            badgeText = '🌟 Founding Genesis';
-            multiplier = '4x';
-          } else if (agent.genesis_number <= 50) {
-            badgeClass = 'badge-early';
-            badgeText = '✨ Early Genesis';
-            multiplier = '3x';
-          } else if (agent.genesis_number <= 100) {
-            badgeClass = 'badge-genesis';
-            badgeText = '⭐ Genesis';
-            multiplier = '2x';
-          }
-          
-          const badge = document.getElementById('genesis-badge');
-          badge.className = 'badge ' + badgeClass;
-          badge.textContent = badgeText;
-          document.getElementById('point-multiplier').textContent = multiplier;
-        }
-      } catch (e) {
-        console.error(e);
-      }
-
-      // Fetch leaderboard for stats
-      try {
-        const res = await fetch('/leaderboard');
-        const data = await res.json();
-        const myEntry = data.leaderboard.find(a => a.agent_id === agentId);
+        document.getElementById('agent-name').textContent = agent.name || 'Unknown';
+        document.getElementById('agent-id').textContent = agent.id || agentId;
+        document.getElementById('agent-description').textContent = agent.description || 'No description provided';
+        document.getElementById('agent-joined').textContent = new Date(agent.created_at).toLocaleDateString();
         
+        // Set avatar based on agent name
+        const avatarMap = {
+          'tars': '🤖',
+          'neo': '👁️',
+          'jarvis': '🔷',
+          'yaazhini': '🌺'
+        };
+        const avatar = avatarMap[agent.name.toLowerCase()] || '🤖';
+        document.getElementById('agent-avatar').textContent = avatar;
+        
+        // Get genesis number from leaderboard
+        const lbRes = await fetch('/leaderboard');
+        const lbData = await lbRes.json();
+        const myEntry = lbData.leaderboard.find(a => a.agent_id === agent.id);
+        const genesisNumber = myEntry ? myEntry.agent_number : 999;
+        
+        document.getElementById('agent-number').textContent = genesisNumber;
+        
+        // Set stats from leaderboard
         if (myEntry) {
-          document.getElementById('total-points').textContent = myEntry.total_points.toFixed(1);
-          document.getElementById('total-signals').textContent = myEntry.signal_count;
+          document.getElementById('total-points').textContent = (myEntry.total_points || 0).toFixed(1);
+          document.getElementById('total-signals').textContent = myEntry.signal_count || 0;
           document.getElementById('streak-days').textContent = myEntry.streak_days || 0;
+        } else {
+          document.getElementById('total-points').textContent = (agent.points || 0).toFixed(1);
+          document.getElementById('total-signals').textContent = agent.signals || 0;
         }
+        
+        // Genesis badge
+        let badgeClass = 'badge-standard';
+        let badgeText = 'Standard';
+        let multiplier = '1x';
+        
+        if (genesisNumber <= 10) {
+          badgeClass = 'badge-genesis';
+          badgeText = '🌟 Founding Genesis';
+          multiplier = '4x';
+        } else if (genesisNumber <= 50) {
+          badgeClass = 'badge-early';
+          badgeText = '✨ Early Genesis';
+          multiplier = '3x';
+        } else if (genesisNumber <= 100) {
+          badgeClass = 'badge-genesis';
+          badgeText = '⭐ Genesis';
+          multiplier = '2x';
+        }
+        
+        const badge = document.getElementById('genesis-badge');
+        badge.className = 'badge ' + badgeClass;
+        badge.textContent = badgeText;
+        document.getElementById('point-multiplier').textContent = multiplier;
       } catch (e) {
-        console.error(e);
+        console.error('Error loading agent profile:', e);
       }
 
       // Fetch agent's signals
