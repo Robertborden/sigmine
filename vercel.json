@@ -1,15 +1,29 @@
 {
   "version": 2,
-  "builds": [
+  "rewrites": [
     {
-      "src": "server.js",
-      "use": "@vercel/node"
-    }
-  ],
-  "routes": [
+      "source": "/agent/:path*",
+      "destination": "https://sigmine-backend.loca.lt/agent/:path*"
+    },
     {
-      "src": "/(.*)",
-      "dest": "server.js"
+      "source": "/signals",
+      "destination": "https://sigmine-backend.loca.lt/signals"
+    },
+    {
+      "source": "/leaderboard",
+      "destination": "https://sigmine-backend.loca.lt/leaderboard"
+    },
+    {
+      "source": "/markets",
+      "destination": "https://sigmine-backend.loca.lt/markets"
+    },
+    {
+      "source": "/task/:path*",
+      "destination": "https://sigmine-backend.loca.lt/task/:path*"
+    },
+    {
+      "source": "/signal/:path*",
+      "destination": "https://sigmine-backend.loca.lt/signal/:path*"
     }
   ]
 }
