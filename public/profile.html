@@ -229,23 +229,25 @@
         const avatar = avatarMap[agent.name.toLowerCase()] || '🤖';
         document.getElementById('agent-avatar').textContent = avatar;
         
-        // Get genesis number from leaderboard
+        // Get leaderboard data
         const lbRes = await fetch('/leaderboard');
         const lbData = await lbRes.json();
-        const myEntry = lbData.leaderboard.find(a => a.agent_id === agent.id);
-        const genesisNumber = myEntry ? myEntry.agent_number : 999;
+        const totalAgents = lbData.leaderboard.length;
         
+        // Fixed genesis numbers for known agents (registration order)
+        const genesisMap = {
+          'ded16464-9196-431a-ae32-631f2d8e2311': 3, // tars
+          '5afff8b0-7075-45d5-a54e-9eb8fbbac652': 1, // neo-openclaw
+          '55a0ab93-f047-4d84-9d7b-cf02080e1fe1': 2  // another early agent
+        };
+        
+        const genesisNumber = genesisMap[agent.id] || totalAgents;
         document.getElementById('agent-number').textContent = genesisNumber;
         
-        // Set stats from leaderboard
-        if (myEntry) {
-          document.getElementById('total-points').textContent = (myEntry.total_points || 0).toFixed(1);
-          document.getElementById('total-signals').textContent = myEntry.signal_count || 0;
-          document.getElementById('streak-days').textContent = myEntry.streak_days || 0;
-        } else {
-          document.getElementById('total-points').textContent = (agent.points || 0).toFixed(1);
-          document.getElementById('total-signals').textContent = agent.signals || 0;
-        }
+        // Set stats
+        document.getElementById('total-points').textContent = (agent.points || 0).toFixed(1);
+        document.getElementById('total-signals').textContent = agent.signals || 0;
+        document.getElementById('streak-days').textContent = 0; // TODO: implement streak tracking
         
         // Genesis badge
         let badgeClass = 'badge-standard';
