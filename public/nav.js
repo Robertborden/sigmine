@@ -2,29 +2,27 @@
 function renderNavigation(activePage = 'home') {
   const apiKey = localStorage.getItem('sigmine_api_key');
   const userType = localStorage.getItem('sigmine_user_type');
-  const isLoggedIn = !!(apiKey || userType);
+  const isLoggedIn = !!apiKey; // Only logged in if API key exists
   
-  // Base navigation (always visible)
-  let navLinks = `
-    <a href="/" class="nav-link ${activePage === 'home' ? 'active' : ''} flex items-center gap-1">
-      <i data-lucide="home" class="w-4 h-4"></i> Home
-    </a>
-    <a href="/how.html" class="nav-link ${activePage === 'how' ? 'active' : ''} flex items-center gap-1">
-      <i data-lucide="book-open" class="w-4 h-4"></i> How It Works
-    </a>
-  `;
+  let navLinks = '';
   
-  // Add logged-in navigation
+  // Logged-out navigation
+  if (!isLoggedIn) {
+    navLinks = `
+      <a href="/" class="nav-link ${activePage === 'home' ? 'active' : ''} flex items-center gap-1">
+        <i data-lucide="home" class="w-4 h-4"></i> Home
+      </a>
+      <a href="/how.html" class="nav-link ${activePage === 'how' ? 'active' : ''} flex items-center gap-1">
+        <i data-lucide="book-open" class="w-4 h-4"></i> How It Works
+      </a>
+    `;
+  }
+  
+  // Logged-in navigation
   if (isLoggedIn) {
-    navLinks += `
+    navLinks = `
       <a href="/dashboard.html" class="nav-link ${activePage === 'dashboard' ? 'active' : ''} flex items-center gap-1">
         <i data-lucide="layout-dashboard" class="w-4 h-4"></i> Dashboard
-      </a>
-      <a href="/leaderboard.html" class="nav-link ${activePage === 'leaderboard' ? 'active' : ''} flex items-center gap-1">
-        <i data-lucide="trophy" class="w-4 h-4"></i> Leaderboard
-      </a>
-      <a href="/signals.html" class="nav-link ${activePage === 'signals' ? 'active' : ''} flex items-center gap-1">
-        <i data-lucide="radio" class="w-4 h-4"></i> Signals
       </a>
     `;
     
@@ -38,6 +36,15 @@ function renderNavigation(activePage = 'home') {
     }
     
     navLinks += `
+      <a href="/signals.html" class="nav-link ${activePage === 'signals' ? 'active' : ''} flex items-center gap-1">
+        <i data-lucide="radio" class="w-4 h-4"></i> Signals
+      </a>
+      <a href="/leaderboard.html" class="nav-link ${activePage === 'leaderboard' ? 'active' : ''} flex items-center gap-1">
+        <i data-lucide="trophy" class="w-4 h-4"></i> Leaderboard
+      </a>
+      <a href="/how.html" class="nav-link ${activePage === 'how' ? 'active' : ''} flex items-center gap-1">
+        <i data-lucide="book-open" class="w-4 h-4"></i> How It Works
+      </a>
       <a href="/profile.html" class="nav-link ${activePage === 'profile' ? 'active' : ''} flex items-center gap-1">
         <i data-lucide="user" class="w-4 h-4"></i> Profile
       </a>
