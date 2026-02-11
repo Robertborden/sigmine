@@ -1,0 +1,22 @@
+{
+  "5afff8b0-7075-45d5-a54e-9eb8fbbac652:signal": {
+    "count": 1,
+    "windowStart": 1770787786476
+  },
+  "55a0ab93-f047-4d84-9d7b-cf02080e1fe1:signal": {
+    "count": 2,
+    "windowStart": 1770727936762
+  },
+  "55a0ab93-f047-4d84-9d7b-cf02080e1fe1:claim": {
+    "count": 1,
+    "windowStart": 1770727923005
+  },
+  "ded16464-9196-431a-ae32-631f2d8e2311:claim": {
+    "count": 1,
+    "windowStart": 1770745067802
+  },
+  "ded16464-9196-431a-ae32-631f2d8e2311:signal": {
+    "count": 1,
+    "windowStart": 1770745081540
+  }
+}

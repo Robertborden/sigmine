@@ -1,0 +1,53 @@
+{
+  "feeds": [
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "category": "news"
+    },
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss",
+      "category": "news"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml",
+      "category": "news"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed",
+      "category": "news"
+    },
+    {
+      "name": "Bitcoinist",
+      "url": "https://bitcoinist.com/feed/",
+      "category": "bitcoin"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/",
+      "category": "news"
+    },
+    {
+      "name": "Blockworks",
+      "url": "https://blockworks.co/feed",
+      "category": "defi"
+    },
+    {
+      "name": "The Defiant",
+      "url": "https://thedefiant.io/feed",
+      "category": "defi"
+    }
+  ],
+  "epoch_duration_seconds": 600,
+  "port": 3456,
+  "exa_api_key": "f748b538-81c4-49e1-89f2-ae0318ae397f",
+  "twitterapi_key": "new1_af62bf308734465d935449d183587495",
+  "twitter_credibility": {
+    "min_followers": 1000,
+    "min_engagement": 100,
+    "verified_bypass": true
+  }
+}

@@ -1,0 +1,1904 @@
+{
+  "markets": [
+    {
+      "market_id": "517310",
+      "question": "Will Trump deport less than 250,000?",
+      "slug": "will-trump-deport-less-than-250000",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes less than 250,000 non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0315",
+        "0.9685"
+      ],
+      "volume": 1083246.507176,
+      "liquidity": 12667.82005,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517311",
+      "question": "Will Trump deport 250,000-500,000 people?",
+      "slug": "will-trump-deport-250000-500000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 250,000 (inclusive) and 500,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.937",
+        "0.063"
+      ],
+      "volume": 4134514.471039,
+      "liquidity": 4999.06449,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517313",
+      "question": "Will Trump deport 500,000-750,000- people?",
+      "slug": "will-trump-deport-500000-750000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 500,000 (inclusive) and 750,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0075",
+        "0.9925"
+      ],
+      "volume": 495905.278122,
+      "liquidity": 5061.6972,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517314",
+      "question": "Will Trump deport 750,000-1,000,000 people?",
+      "slug": "will-trump-deport-750000-1000000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 750,000 (inclusive) and 1,000,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.011",
+        "0.989"
+      ],
+      "volume": 477882.835603,
+      "liquidity": 5935.36696,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517315",
+      "question": "Will Trump deport 1,000,000-1,250,000 people?",
+      "slug": "will-trump-deport-1000000-1250000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 1,00,000 (inclusive) and 1,250,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.004",
+        "0.996"
+      ],
+      "volume": 472870.350529,
+      "liquidity": 16177.26821,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517316",
+      "question": "Will Trump deport 1,250,000-1,500,000 people?",
+      "slug": "will-trump-deport-1250000-1500000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 1,250,000 (inclusive) and 1,500,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0045",
+        "0.9955"
+      ],
+      "volume": 387491.650121,
+      "liquidity": 10461.99881,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517317",
+      "question": "Will Trump deport 1,500,000-1,750,000 people?",
+      "slug": "will-trump-deport-1500000-1750000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 1,500,000 (inclusive) and 1,750,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0045",
+        "0.9955"
+      ],
+      "volume": 404429.53526,
+      "liquidity": 13424.12155,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517318",
+      "question": "Will Trump deport 1,750,000-2,000,000 people?",
+      "slug": "will-trump-deport-1750000-2000000-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes between 1,750,000 (inclusive) and 2,000,000 (exclusive) non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0055",
+        "0.9945"
+      ],
+      "volume": 338470.319071,
+      "liquidity": 18992.29352,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517319",
+      "question": "Will Trump deport 2,000,000 or more people?",
+      "slug": "will-trump-deport-2000000-or-more-people",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes 2,000,000 or more non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0035",
+        "0.9965"
+      ],
+      "volume": 355204.99604,
+      "liquidity": 14716.75599,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-many-people-will-trump-deport-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "517321",
+      "question": "Will Trump deport 750,000 or more people in 2025?",
+      "slug": "will-trump-deport-750000-or-more-people-in-2025",
+      "description": "During the 2024 FY ICE removed 271,484 non citizens (see: https://www.ice.gov/doclib/eoy/iceAnnualReportFY2024.pdf).\n\nThis market will resolve to \"Yes\" if U.S. Immigration and Customs Enforcement (ICE) removes 750,000 or more non citizens in the 2025 fiscal year. Otherwise, this market ill resolve to \"No\".\n\nThe resolution source will be the FY 2025 ICE Annual Report. If the FY 2025 ICE Annual Report is not published by February 28, 2026, 11:59 PM ET, another credible resolution source will be used. ",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.047",
+        "0.953"
+      ],
+      "volume": 745994.380903,
+      "liquidity": 4137.40721,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/will-trump-deport-750000-or-more-people-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521944",
+      "question": "Will Elon and DOGE cut less than $50b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-less-than-50b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.973",
+        "0.027"
+      ],
+      "volume": 343420.923508,
+      "liquidity": 13070.26621,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521945",
+      "question": "Will Elon and DOGE cut between $50-100b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-50-100b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.01",
+        "0.99"
+      ],
+      "volume": 372650.778265,
+      "liquidity": 8941.98893,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521946",
+      "question": "Will Elon and DOGE cut between $100-150b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-100-150b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.006",
+        "0.994"
+      ],
+      "volume": 297261.373024,
+      "liquidity": 9765.59249,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521947",
+      "question": "Will Elon and DOGE cut between $150-200b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-150-200b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.006",
+        "0.994"
+      ],
+      "volume": 332086.467504,
+      "liquidity": 7734.7965,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521948",
+      "question": "Will Elon and DOGE cut between $200-250b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-between-200-250b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.006",
+        "0.994"
+      ],
+      "volume": 441545.545343,
+      "liquidity": 13864.79771,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521949",
+      "question": "Will Elon and DOGE cut more than $250b in federal spending in 2025?",
+      "slug": "will-elon-and-doge-cut-more-than-250b-in-federal-spending-in-2025",
+      "description": "This market will resolve based on federal government current expenditures as reported by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n\nThis market will resolve to the amount federal government current expenditures decrease by between the Q4 2024 report and the Q4 2025 report. \n\nIf the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nThe difference will be calculated as the Q4 2024 value minus the Q4 2025 value. \n\nThe figures will be based on the initial Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank. Revisions made to these figures will not be considered, only the values reported in the initial reports will be used. \n\nThe figures will be based on the Q4 2024 and Q4 2025 values as reported by the St. Louis Federal Reserve Bank as soon as the data for Q4 2025 becomes available, regardless of whether later revisions are made.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0065",
+        "0.9935"
+      ],
+      "volume": 715970.54154,
+      "liquidity": 8809.98336,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-spending-will-elon-and-doge-cut-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521963",
+      "question": "Will Elon cut the budget by at least 10% in 2025?",
+      "slug": "will-elon-cut-the-budget-by-at-least-10-in-2025",
+      "description": "In Q4 2024, government expenditures were $7,106,807,000,000 see (https://fred.stlouisfed.org/series/FGEXPND). \n\nThis market will resolve to “Yes” if federal government current expenditures decrease by 10% or more between the Q4 2024 report and the Q4 2025 report. Otherwise, it will resolve to \"No\".\n\nAny 2025 quarterly report of $6,396,126,000,000 or less will qualify for a “Yes” resolution.\n\nRevisions made to these figures will not be considered, only the values reported in the initial reports will be used.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0375",
+        "0.9625"
+      ],
+      "volume": 176140.267699,
+      "liquidity": 7039.18029,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/will-elon-cut-the-budget-by-at-least-10-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "521964",
+      "question": "Will Elon cut the budget by at least 5% in 2025?",
+      "slug": "will-elon-cut-the-budget-by-at-least-5-in-2025",
+      "description": "In Q4 2024, government expenditures were $7,106,807,000,000 (see https://fred.stlouisfed.org/series/FGEXPND). \n\nThis market will resolve to “Yes” if federal government current expenditures decrease by 5% or more between the Q4 2024 report and the Q4 2025 report. Otherwise, it will resolve to \"No\".\n\nAny 2025 quarterly report of $6,751,467,000,000 or less will qualify for a “Yes” resolution.\n\nRevisions made to these figures will not be considered, only the values reported in the initial reports will be used.\n\nThis market's resolution source is the Federal Government: Current Expenditures chart maintained by the St. Louis Federal Reserve Bank, displayed here (https://fred.stlouisfed.org/series/FGEXPND).\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0215",
+        "0.9785"
+      ],
+      "volume": 183373.293745,
+      "liquidity": 6887.83816,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/will-elon-cut-the-budget-by-at-least-5-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "527079",
+      "question": "Will GTA 6 cost $100+?",
+      "slug": "will-gta-6-cost-100",
+      "description": "This market will resolve to \"Yes\" if the standard edition of Grand Theft Auto VI (GTA 6) launches at $100.00 or more. Otherwise, this market will resolve to \"No\".\n\nThis market will resolve based on the pre-tax launch price in USD of the standard edition of GTA 6 on Xbox or PlayStation as listed on the Microsoft Store or PlayStation Store on the first official day of its release in the United States.\n\nIf the price differs between the Microsoft and PlayStation stores, this market will resolve according to the lower price.\n\nThis market will resolve based on the lowest price version that includes the full standard game with no DLC, etc.\n\nIf GTA 6 is not released by February 28, 2026, this market will resolve to \"No\".\n\nThe primary resolution source for this market will be the Microsoft Store/PlayStation Store, however a consensus of credible reporting will also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0095",
+        "0.9905"
+      ],
+      "volume": 3404906.165511,
+      "liquidity": 66501.66523,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/will-gta-6-cost-100",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "528788",
+      "question": "Rojas guilty in Texas illegal abortion case?",
+      "slug": "rojas-guilty-in-texas-illegal-abortion-case",
+      "description": "On March 17, Texas announced it had arrested Maria Margarita Rojas for her role in providing illegal abortions and illegally operating a network of clinics in the state. You can read more about that here: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-announces-arrest-houston-area-abortionist-and-crackdown-clinics\n\nThis market will resolve to \"Yes\" if Rojas is found guilty on any charge relating to providing illegal abortions in this case by February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIf all charges related to providing illegal abortions in this case are dismissed, end due to a plea agreement without an admission of guilt, or if a mistrial is declared for the relevant charges, this market will resolve to \"No\".\n\nIf all illegal abortion charges dismissed at any point, this market will resolve to \"No\".\n\nThis market will resolve according to the initial judgment rendered in this case. Any appeals will have no bearing on the resolution of this market.\n\nThe primary resolution source will be an official judgement delivered by the ruling court; however, other credible reporting may be used.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.103",
+        "0.897"
+      ],
+      "volume": 36344.840424,
+      "liquidity": 4160.79898,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/rojas-guilty-in-texas-illegal-abortion-case",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "528820",
+      "question": "Senator Eichorn guilty of soliciting a child?",
+      "slug": "senator-eichorn-guilty-of-soliciting-a-child",
+      "description": "On March 17, sitting Minnesota State Senator Justin Eichorn was arrested for allegedly soliciting sex from a 16 year old. You can read more about that here: https://minnesotareformer.com/2025/03/18/gop-state-sen-justin-eichorn-arrested-for-suspicion-of-soliciting-sex-with-a-16-year-old-girl/\n\nThis market will resolve to \"Yes\" if Eichorn is found guilty on any charge relating to soliciting a minor sexual activity in this case by February 28, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nIf Eichorn is never charged with soliciting a minor for sexual activity in this case, or otherwise all charges related to soliciting a minor for sexual activity in this case are dismissed, end due to a plea agreement without an admission of guilt, or if a mistrial is declared for the relevant charges, this market will resolve to \"No\".\n\nIf all solicitation of a minor charges dismissed at any point, this market will resolve to \"No\".\n\nThis market will resolve according to the initial judgment rendered in this case. Any appeals will have no bearing on the resolution of this market.\n\nThe primary resolution source will be an official judgement delivered by the ruling court; however, other credible reporting may be used.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0305",
+        "0.9695"
+      ],
+      "volume": 21309.96747,
+      "liquidity": 1063.25663,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/senator-eichorn-guilty-of-soliciting-a-child",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "531202",
+      "question": "BitBoy convicted?",
+      "slug": "bitboy-convicted",
+      "description": "BitBoy was recently arrested due to a warrant issued for threatening communications he sent to a Judge. You can read more about that here: https://www.binance.com/en/square/post/22059661159362\n\nThis market will resolve to \"Yes\" if BitBoy (Ben Armstrong) is convicted of any charges related to the emails he sent to Judge Kimberly Childs, by March 31, 2026 ET. Otherwise, this market will resolve to \"No\".\n\nConvictions must be for criminal charges.\n\nIf the case is completely dropped for whatever reason, due to a plea agreement without an admission of guilt, a dismissal, or any other situation occurs in which no judgement is rendered or will be rendered by the court, this market will resolve to \"No\".\n\nOnce an individual is convicted it qualifies for an immediate \"Yes\" resolution, regardless of later appeals, etc. This market will resolve based on the first conviction in a qualifying case.\n\nThe primary resolution source will be official court records, however a consensus of credible reporting will also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.26",
+        "0.74"
+      ],
+      "volume": 17747.10303,
+      "liquidity": 837.8786,
+      "end_date": "2026-03-31T12:00:00Z",
+      "url": "https://polymarket.com/event/bitboy-convicted",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "533851",
+      "question": "Negative GDP growth in 2025?",
+      "slug": "negative-gdp-growth-in-2025",
+      "description": "This market will resolve to 'Yes' if the seasonally adjusted and annualized GDP growth rate for the full year 2025, as derived from the 'Advance Estimate' for Q4 2025, scheduled for release by the U.S. Bureau of Economic Analysis (BEA) on January 30, 2026, reports a growth rate below 0. Otherwise, this market will resolve to 'No'.\n\nThe GDP release will be available at: https://www.bea.gov/data/gdp/gross-domestic-product.\n\nOnly the first available GDP report labeled as the 'Advance Estimate' for Q4 2025, which provides the initial full-year 2025 GDP growth rate, will be used for resolution. Any subsequent revisions or updates to the data will not be considered.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.007",
+        "0.993"
+      ],
+      "volume": 149951.674027,
+      "liquidity": 6011.82785,
+      "end_date": "2026-01-30T12:00:00Z",
+      "url": "https://polymarket.com/event/negative-gdp-growth-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537484",
+      "question": "Will the U.S. collect less than $100b in revenue in 2025?",
+      "slug": "will-the-us-collect-less-than-100b-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.863",
+        "0.137"
+      ],
+      "volume": 1335729.318714,
+      "liquidity": 27884.96217,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537485",
+      "question": "Will the U.S. collect between $100b and $200b in revenue in 2025?",
+      "slug": "will-the-us-collect-between-100b-and-200b-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.024",
+        "0.976"
+      ],
+      "volume": 1200465.203199,
+      "liquidity": 8668.14173,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537486",
+      "question": "Will the U.S. collect between $200b and $500b in revenue in 2025?",
+      "slug": "will-the-us-collect-between-200b-and-500b-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.11",
+        "0.89"
+      ],
+      "volume": 698588.057882,
+      "liquidity": 11060.2614,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537487",
+      "question": "Will the U.S. collect between $500b and $1t in revenue in 2025?",
+      "slug": "will-the-us-collect-between-500b-and-1t-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0015",
+        "0.9985"
+      ],
+      "volume": 2094858.603495,
+      "liquidity": 50105.48796,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537488",
+      "question": "Will the U.S. collect between $1t and $2t in revenue in 2025?",
+      "slug": "will-the-us-collect-between-1t-and-2t-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.001",
+        "0.999"
+      ],
+      "volume": 541907.062017,
+      "liquidity": 58693.12626,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537489",
+      "question": "Will the U.S. collect more than $2t in revenue in 2025?",
+      "slug": "will-the-us-collect-more-than-2t-in-revenue-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve according to the value of customs duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/)\n\nIf the Treasury Department does not publish relevant data for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to the lowest bracket. \n\nThe resolution source will be the Treasury Department.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.001",
+        "0.999"
+      ],
+      "volume": 509869.189262,
+      "liquidity": 75260.38759,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/how-much-revenue-will-the-us-raise-from-tariffs-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "537490",
+      "question": "Will tariffs generate >$250b in 2025?",
+      "slug": "will-tariffs-generate-250b-in-2025",
+      "description": "The U.S. government collected $82.2b in customs duties in FY 2025 (See: https://www.fiscal.treasury.gov/files/reports-statements/financial-report/2024/notes-to-the-financial-statements19.pdf).\n\nThis market will resolve to \"Yes\"  if the value of costumes duties collected in FY 2025 according to the Financial Report of the United States Government published by the Treasury Department for FY 2025 (See: https://www.fiscal.treasury.gov/reports-statements/financial-report/) is greater than $250b. Otherwise this market will resolve to \"No\". \n\nIf the Treasury Department does not publish relevant data  for FY 2025 by February 28, 2026, 11:59 PM ET, this market will resolve to \"No\". \n\nThe resolution source will be the Treasury Department.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0125",
+        "0.9875"
+      ],
+      "volume": 1245647.133075,
+      "liquidity": 21129.85033,
+      "end_date": "2026-02-28T12:00:00Z",
+      "url": "https://polymarket.com/event/will-tariffs-generate-250b-in-2025",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540816",
+      "question": "Russia-Ukraine Ceasefire before GTA VI?",
+      "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
+      "description": "This market will resolve to \"Yes\" if  if there is an official ceasefire agreement, defined as a publicly announced and mutually agreed halt in military engagement, between Russia and Ukraine before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nOnly ceasefires which constitute a general pause in the conflict will qualify. Ceasefires which only apply to energy infrastructure, the Black Sea, or other similar agreements will not qualify.\n\nAny form of informal agreement will not be considered an official ceasefire. Humanitarian pauses will not count toward the resolution of this market.\n\nThe resolution for a ceasefire will be based on official announcements from both Russia and Ukraine; however, a wide consensus of credible media reporting stating an official ceasefire agreement between Russia and Ukraine has been reached will suffice.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.58",
+        "0.42"
+      ],
+      "volume": 1327195.300605,
+      "liquidity": 65851.5399,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540817",
+      "question": "New Rihanna Album before GTA VI?",
+      "slug": "new-rhianna-album-before-gta-vi-926",
+      "description": "This market will resolve to \"Yes\" if Rihanna officially releases a new album before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nOfficially released means that a newly released album is officially available for download or streaming (not including live events) by the resolution date.\n\nRe-releases, deluxe editions, compilations, or greatest hits albums will not count, unless they contain at least 50% tracks that have never been officially released in any format prior to the album's release.\n\nThe resolution source for the album release will be any official streaming or download site, e.g. Apple Music or Spotify.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.525",
+        "0.475"
+      ],
+      "volume": 637407.443907,
+      "liquidity": 34964.8125,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540818",
+      "question": "New Playboi Carti Album before GTA VI?",
+      "slug": "new-playboi-carti-album-before-gta-vi-421",
+      "description": "This market will resolve to \"Yes\" if Playboi Carti officially releases a new album before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nOfficially released means that a newly released album is officially available for download or streaming (not including live events) by the resolution date.\n\nRe-releases, deluxe editions, compilations, or greatest hits albums will not count, unless they contain at least 50% tracks that have never been officially released in any format prior to the album's release.\n\nThe resolution source for the album release will be any official streaming or download site, e.g. Apple Music or Spotify.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.605",
+        "0.395"
+      ],
+      "volume": 672596.717852,
+      "liquidity": 32355.0325,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540819",
+      "question": "Will Jesus Christ return before GTA VI?",
+      "slug": "will-jesus-christ-return-before-gta-vi-665",
+      "description": "This market will resolve to \"Yes\" if The Second Coming of Jesus Christ occurs before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nThe resolution source for the return of Jesus will be a consensus of credible sources.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.485",
+        "0.515"
+      ],
+      "volume": 9267936.164218,
+      "liquidity": 415506.3293,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540820",
+      "question": "Trump out as President before GTA VI?",
+      "slug": "trump-out-as-president-before-gta-vi-846",
+      "description": "This market will resolve to \"Yes\" if Donald Trump ceases to be the President of the U.S. for any period of time before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nAn announcement of Trump's resignation/removal, or a scheduled departure from office due to the outcome of an election will not alone qualify.\n\nOnly permanent removal from office will qualify for resolution. Temporary removals, such as temporary invocation of the 25th Amendment, will not count.\n\nThe resolution source for Trump leaving the presidency will be a consensus of credible reporting.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.53",
+        "0.47"
+      ],
+      "volume": 497074.189769,
+      "liquidity": 40658.045,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540843",
+      "question": "Will China invades Taiwan before GTA VI?",
+      "slug": "will-china-invades-taiwan-before-gta-vi-716",
+      "description": "This market will resolve to \"Yes\" if China commences a military offensive intended to establish control over any portion of the Republic of China (Taiwan) before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nAn announcement of Trump's resignation/removal, or a scheduled departure from office due to the outcome of an election will not alone qualify.\n\nTerritory under the administration of the Republic of China including any inhabited islands will qualify, however uninhabited islands will not qualify.\n\nThe resolution source for China invading Taiwan will be will be official confirmation by China, Taiwan, the United Nations, or any permanent member of the UN Security Council, however a consensus of credible reporting will also be use\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.525",
+        "0.475"
+      ],
+      "volume": 1347103.642319,
+      "liquidity": 56752.7226,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540844",
+      "question": "Will bitcoin hit $1m before GTA VI?",
+      "slug": "will-bitcoin-hit-1m-before-gta-vi-872",
+      "description": "This market will resolve to \"Yes\" if any Binance 1 minute candle for Bitcoin (BTCUSDT) has a final \"High\" price of $1,000,000 or higher before Grand Theft Auto VI is officially released in the US. Otherwise, this market will resolve to \"No\".\n\nIf neither occurs by July 31, 2026, 11:59 PM ET, this market will resolve to 50-50.\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source for the release of GTA VI is official information from Rockstar Games or its parent company, Take-Two Interactive.\n\nThe resolution source for Bitcoin is Binance, specifically the BTCUSDT \"High\" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on \"1m\" for one-minute candles selected on the top bar.\n\nPlease note that the outcome of this market depends solely on the price data from the Binance BTCUSDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.485",
+        "0.515"
+      ],
+      "volume": 3079598.067108,
+      "liquidity": 187283.6478,
+      "end_date": "2026-07-31T12:00:00Z",
+      "url": "https://polymarket.com/event/what-will-happen-before-gta-vi",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "540881",
+      "question": "GTA VI released before June 2026?",
+      "slug": "gta-vi-released-before-june-2026",
+      "description": "This market will resolve to \"Yes\" if it Grand Theft Auto VI is officially released in the US by May 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\".\n\nFor the purposes of this market, \"release\" refers to the game becoming publicly available for purchase or download in the US. Early access, beta versions, other forms of pre-release availability, or leaks will not count as an official release. If the release is only for certain consoles (e.g. Xbox Series X/S) it will count.\n\nThe resolution source will be official information from Rockstar Games or its parent company, Take-Two Interactive.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.038",
+        "0.962"
+      ],
+      "volume": 1677993.101541,
+      "liquidity": 20686.63761,
+      "end_date": "2026-05-31T12:00:00Z",
+      "url": "https://polymarket.com/event/gta-vi-released-before-june-2026",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544092",
+      "question": "Will Harvey Weinstein be sentenced to no prison time?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-no-prison-time",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.339",
+        "0.661"
+      ],
+      "volume": 35346.406047,
+      "liquidity": 243.16191,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544093",
+      "question": "Will Harvey Weinstein be sentenced to less than 5 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-less-than-5-years-in-prison",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.4345",
+        "0.5655"
+      ],
+      "volume": 11712.274903,
+      "liquidity": 174.75114,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544094",
+      "question": "Will Harvey Weinstein be sentenced to between 5 and 10 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-5-and-10-years-in-prison",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.101",
+        "0.899"
+      ],
+      "volume": 10236.23892,
+      "liquidity": 1016.72858,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544095",
+      "question": "Will Harvey Weinstein be sentenced to between 10 and 20 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-10-and-20-years-in-prison",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.2615",
+        "0.7385"
+      ],
+      "volume": 88592.684093,
+      "liquidity": 166.2361,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544096",
+      "question": "Will Harvey Weinstein be sentenced to between 20 and 30 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-between-20-and-30-years-in-prison",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.3305",
+        "0.6695"
+      ],
+      "volume": 109030.724296,
+      "liquidity": 916.57194,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "544097",
+      "question": "Will Harvey Weinstein be sentenced to more than 30 years in prison?",
+      "slug": "will-harvey-weinstein-be-sentenced-to-more-than-30-years-in-prison",
+      "description": "This market will resolve according to the prison sentence, if any, imposed on Harvey Weinstein as part of his ongoing New York retrial (People of the State of New York v. Harvey Weinstein) by July 31, 2026, 11:59 PM ET.\n\nThis market will resolve immediately based on the first sentence rendered in this case, regardless of any appeals. If Weinstein is found not guilty, there is a mistrial, or if the first sentencing does not include any jail or prison time, this market will resolve to \"No Prison Time.\"\n\nIf no sentencing takes place by July 31, 2026, 11:59 PM ET, this market will also resolve to \"No Prison Time.\"\n\nIf the sentence falls exactly between two brackets, then this market will resolve to the higher range bracket.\n\nFor the purposes of this market, it does not matter whether the sentence is concurrent or consecutive to any existing sentence Weinstein is already serving. The market will resolve based on the total prison sentence imposed in this case.\n\nThe primary resolution source for this market will be official information from the New York court system or other involved U.S. government sources; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.038",
+        "0.962"
+      ],
+      "volume": 12770.513283,
+      "liquidity": 1409.61909,
+      "end_date": "2025-12-31T12:00:00Z",
+      "url": "https://polymarket.com/event/harvey-weinstein-prison-time",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "546612",
+      "question": "Will OpenAI launch a new consumer hardware product by March 31, 2026?",
+      "slug": "will-openai-launch-a-new-consumer-hardware-product-by-march-31-2026",
+      "description": "This market will resolve to \"Yes\" if OpenAI publicly announces and launches a new consumer hardware product by March 31, 2026, 11:59 PM ET. Otherwise, this market will resolve to \"No\". \n\nA \"consumer hardware product\" is defined as a physical device intended for direct use by individual consumers, rather than enterprise or developer tools. The product must be newly introduced and not a rebrand, update, or iteration of any previously released device.\n\nExamples that would qualify include an AI-powered wearable, smart home assistant, or augmented reality device. Developer tools, AI chips, or servers marketed exclusively for enterprise use would not qualify.\n\nThe resolution source will be official information from OpenAI.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.051",
+        "0.949"
+      ],
+      "volume": 61886.270499,
+      "liquidity": 4503.2862,
+      "url": "https://polymarket.com/event/will-openai-launch-a-consumer-hardware-product-by",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549868",
+      "question": "Will Dilan Yeşilgöz-Zegerius become the next Prime Minister of the Netherlands?",
+      "slug": "will-dilan-yeilgz-zegerius-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.002",
+        "0.998"
+      ],
+      "volume": 743413.75003,
+      "liquidity": 29903.11304,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549869",
+      "question": "Will Frans Timmermans become the next Prime Minister of the Netherlands?",
+      "slug": "will-frans-timmermans-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.001",
+        "0.999"
+      ],
+      "volume": 630679.448998,
+      "liquidity": 58285.95091,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549870",
+      "question": "Will Geert Wilders become the next Prime Minister of the Netherlands?",
+      "slug": "will-geert-wilders-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.003",
+        "0.997"
+      ],
+      "volume": 1995301.296656,
+      "liquidity": 76388.5431,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549871",
+      "question": "Will Nicolien van Vroonhoven-Kok become the next Prime Minister of the Netherlands?",
+      "slug": "will-nicolien-van-vroonhoven-kok-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.001",
+        "0.999"
+      ],
+      "volume": 437064.707247,
+      "liquidity": 23273.86217,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549872",
+      "question": "Will Dick Schoof become the next Prime Minister of the Netherlands?",
+      "slug": "will-dick-schoof-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.001",
+        "0.999"
+      ],
+      "volume": 703677.928334,
+      "liquidity": 38840.38297,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549873",
+      "question": "Will Caroline van der Plas become the next Prime Minister of the Netherlands?",
+      "slug": "will-caroline-van-der-plas-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0025",
+        "0.9975"
+      ],
+      "volume": 3002425.772756,
+      "liquidity": 15890.13486,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549874",
+      "question": "Will Rob Jetten become the next Prime Minister of the Netherlands?",
+      "slug": "will-rob-jetten-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.983",
+        "0.017"
+      ],
+      "volume": 2593809.417966,
+      "liquidity": 16250.34383,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549875",
+      "question": "Will Henri Bontenbal become the next Prime Minister of the Netherlands?",
+      "slug": "will-henri-bontenbal-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0045",
+        "0.9955"
+      ],
+      "volume": 1234028.714825,
+      "liquidity": 23863.58496,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549876",
+      "question": "Will Ahmed Aboutaleb become the next Prime Minister of the Netherlands?",
+      "slug": "will-ahmed-aboutaleb-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0005",
+        "0.9995"
+      ],
+      "volume": 826618.316241,
+      "liquidity": 109538.74865,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "549877",
+      "question": "Will Klaas Dijkhoff become the next Prime Minister of the Netherlands?",
+      "slug": "will-klaas-dijkhoff-become-the-next-prime-minister-of-the-netherlands",
+      "description": "The ruling coalition of the Netherlands collapsed on June 3, 2025. New parliamentary elections are scheduled for October 29.\n\nThis market will resolve to the next individual who is officially appointed and sworn in as Prime Minister of the Netherlands following the 2025 parliamentary election.\n\nTo count for resolution, the individual must be formally sworn in. Any interim or caretaker Prime Minister will not count toward the resolution of this market.\n\nIf no such Prime Minister is sworn in by December 31, 2026, 11:59 PM ET, this market will resolve to “Other”.\n\nThe primary resolution source for this market will be official information from the Government of the Netherlands; however, a consensus of credible reporting may also be used.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0005",
+        "0.9995"
+      ],
+      "volume": 349535.738569,
+      "liquidity": 27436.1195,
+      "end_date": "2026-12-31T00:00:00Z",
+      "url": "https://polymarket.com/event/next-prime-minister-of-the-netherlands",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "550694",
+      "question": "Will Italy qualify for the 2026 FIFA World Cup?",
+      "slug": "will-italy-qualify-for-the-2026-fifa-world-cup",
+      "description": "This is a market on which teams will qualify for the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to qualify for the FIFA World Cup based on the rules of FIFA (e.g. they cannot reach the required number of points to advance from its group or qualify for playoffs), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or the qualifying stage has not been completed by September 30, 2026, 11:59 PM this market will resolve to “No”.\n\nThe resolution source for this market will be FIFA.  (https://www.fifa.com/en/tournaments/mens/worldcup).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.625",
+        "0.375"
+      ],
+      "volume": 200207.697142,
+      "liquidity": 2318.2568,
+      "end_date": "2026-04-12T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-fifa-world-cup-which-countries-qualify",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "550703",
+      "question": "Will Sweden qualify for the 2026 FIFA World Cup?",
+      "slug": "will-sweden-qualify-for-the-2026-fifa-world-cup",
+      "description": "This is a market on which teams will qualify for the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to qualify for the FIFA World Cup based on the rules of FIFA (e.g. they cannot reach the required number of points to advance from its group or qualify for playoffs), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or the qualifying stage has not been completed by September 30, 2026, 11:59 PM this market will resolve to “No”.\n\nThe resolution source for this market will be FIFA.  (https://www.fifa.com/en/tournaments/mens/worldcup).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.26",
+        "0.74"
+      ],
+      "volume": 90866.577079,
+      "liquidity": 3930.0184,
+      "end_date": "2026-04-12T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-fifa-world-cup-which-countries-qualify",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "550706",
+      "question": "Will Poland qualify for the 2026 FIFA World Cup?",
+      "slug": "will-poland-qualify-for-the-2026-fifa-world-cup",
+      "description": "This is a market on which teams will qualify for the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to qualify for the FIFA World Cup based on the rules of FIFA (e.g. they cannot reach the required number of points to advance from its group or qualify for playoffs), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or the qualifying stage has not been completed by September 30, 2026, 11:59 PM this market will resolve to “No”.\n\nThe resolution source for this market will be FIFA.  (https://www.fifa.com/en/tournaments/mens/worldcup).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.38",
+        "0.62"
+      ],
+      "volume": 259709.25084,
+      "liquidity": 2051.4758,
+      "end_date": "2026-04-12T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-fifa-world-cup-which-countries-qualify",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "550708",
+      "question": "Will Ukraine qualify for the 2026 FIFA World Cup?",
+      "slug": "will-ukraine-qualify-for-the-2026-fifa-world-cup",
+      "description": "This is a market on which teams will qualify for the 2026 FIFA World Cup.\n\nIf at any point it becomes impossible for this team to qualify for the FIFA World Cup based on the rules of FIFA (e.g. they cannot reach the required number of points to advance from its group or qualify for playoffs), this market will resolve immediately to “No”.\n\nIf the 2026 FIFA World Cup is permanently canceled or the qualifying stage has not been completed by September 30, 2026, 11:59 PM this market will resolve to “No”.\n\nThe resolution source for this market will be FIFA.  (https://www.fifa.com/en/tournaments/mens/worldcup).",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.295",
+        "0.705"
+      ],
+      "volume": 130690.735617,
+      "liquidity": 3792.903,
+      "end_date": "2026-04-12T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-fifa-world-cup-which-countries-qualify",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553824",
+      "question": "Will the Carolina Hurricanes win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-carolina-hurricanes-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Carolina Hurricanes win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.085",
+        "0.915"
+      ],
+      "volume": 89979.945849,
+      "liquidity": 75712.8182,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553825",
+      "question": "Will the Florida Panthers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-florida-panthers-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Florida Panthers win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.032",
+        "0.968"
+      ],
+      "volume": 427433.344146,
+      "liquidity": 74781.83919,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553826",
+      "question": "Will the Edmonton Oilers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-edmonton-oilers-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Edmonton Oilers win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.075",
+        "0.925"
+      ],
+      "volume": 249505.087255,
+      "liquidity": 43907.4459,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553827",
+      "question": "Will the Dallas Stars win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-dallas-stars-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Dallas Stars win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0405",
+        "0.9595"
+      ],
+      "volume": 116737.546022,
+      "liquidity": 72247.11383,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553828",
+      "question": "Will the Colorado Avalanche win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-colorado-avalanche-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Colorado Avalanche win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.2235",
+        "0.7765"
+      ],
+      "volume": 1191804.158034,
+      "liquidity": 97183.11843,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553829",
+      "question": "Will the Vegas Golden Knights win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-vegas-golden-knights-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Vegas Golden Knights win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0655",
+        "0.9345"
+      ],
+      "volume": 379261.037468,
+      "liquidity": 89209.03362,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553830",
+      "question": "Will the Tampa Bay Lightning win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-tampa-bay-lightning-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Tampa Bay Lightning win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.143",
+        "0.857"
+      ],
+      "volume": 137177.402087,
+      "liquidity": 73937.62409,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553831",
+      "question": "Will the Los Angeles Kings win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-los-angeles-kings-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Los Angeles Kings win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0225",
+        "0.9775"
+      ],
+      "volume": 2943697.298878,
+      "liquidity": 90133.77665,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553832",
+      "question": "Will the New Jersey Devils win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-new-jersey-devils-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the New Jersey Devils win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0035",
+        "0.9965"
+      ],
+      "volume": 193476.088286,
+      "liquidity": 95751.77411,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553833",
+      "question": "Will the Winnipeg Jets win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-winnipeg-jets-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Winnipeg Jets win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.006",
+        "0.994"
+      ],
+      "volume": 243028.857938,
+      "liquidity": 109213.15022,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553834",
+      "question": "Will the Toronto Maple Leafs win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-toronto-maple-leafs-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Toronto Maple Leafs win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0095",
+        "0.9905"
+      ],
+      "volume": 477774.480278,
+      "liquidity": 90619.18104,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553835",
+      "question": "Will the Washington Capitals win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-washington-capitals-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Washington Capitals win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.016",
+        "0.984"
+      ],
+      "volume": 209840.371945,
+      "liquidity": 87202.92028,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553836",
+      "question": "Will the New York Rangers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-new-york-rangers-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the New York Rangers win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0035",
+        "0.9965"
+      ],
+      "volume": 258528.830417,
+      "liquidity": 131861.54287,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553837",
+      "question": "Will the Ottawa Senators win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-ottawa-senators-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Ottawa Senators win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0145",
+        "0.9855"
+      ],
+      "volume": 308798.370186,
+      "liquidity": 92925.62559,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553838",
+      "question": "Will the Minnesota Wild win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-minnesota-wild-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Minnesota Wild win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0645",
+        "0.9355"
+      ],
+      "volume": 3903226.148814,
+      "liquidity": 68152.92252,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553839",
+      "question": "Will the Utah Mammoth win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-utah-mammoth-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Utah Mammoth win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.023",
+        "0.977"
+      ],
+      "volume": 294223.465775,
+      "liquidity": 86878.34,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553840",
+      "question": "Will the St. Louis Blues win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-st-louis-blues-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the St. Louis Blues win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.004",
+        "0.996"
+      ],
+      "volume": 276944.945304,
+      "liquidity": 97797.81065,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553841",
+      "question": "Will the Vancouver Canucks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-vancouver-canucks-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Vancouver Canucks win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0015",
+        "0.9985"
+      ],
+      "volume": 545735.613824,
+      "liquidity": 118039.87665,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553842",
+      "question": "Will the New York Islanders win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-new-york-islanders-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the New York Islanders win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.013",
+        "0.987"
+      ],
+      "volume": 2224221.949655,
+      "liquidity": 93263.496,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553843",
+      "question": "Will the Philadelphia Flyers win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-philadelphia-flyers-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Philadelphia Flyers win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.005",
+        "0.995"
+      ],
+      "volume": 418893.348592,
+      "liquidity": 111460.42621,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553844",
+      "question": "Will the Columbus Blue Jackets win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-columbus-blue-jackets-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Columbus Blue Jackets win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0135",
+        "0.9865"
+      ],
+      "volume": 324071.662961,
+      "liquidity": 78970.94177,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553845",
+      "question": "Will the Calgary Flames win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-calgary-flames-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Calgary Flames win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0015",
+        "0.9985"
+      ],
+      "volume": 412479.64958,
+      "liquidity": 122214.84687,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553846",
+      "question": "Will the Nashville Predators win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-nashville-predators-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Nashville Predators win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0025",
+        "0.9975"
+      ],
+      "volume": 532700.752848,
+      "liquidity": 84196.4026,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553847",
+      "question": "Will the Detroit Red Wings win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-detroit-red-wings-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Detroit Red Wings win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.034",
+        "0.966"
+      ],
+      "volume": 322428.947632,
+      "liquidity": 85942.2383,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553848",
+      "question": "Will the Anaheim Ducks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-anaheim-ducks-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Anaheim Ducks win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0165",
+        "0.9835"
+      ],
+      "volume": 258529.977406,
+      "liquidity": 87795.10351,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553849",
+      "question": "Will the Montreal Canadiens win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-montreal-canadiens-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Montreal Canadiens win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.033",
+        "0.967"
+      ],
+      "volume": 443059.539463,
+      "liquidity": 69279.36583,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553850",
+      "question": "Will the Boston Bruins win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-boston-bruins-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Boston Bruins win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.013",
+        "0.987"
+      ],
+      "volume": 366771.029359,
+      "liquidity": 92379.06708,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553851",
+      "question": "Will the Buffalo Sabres win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-buffalo-sabres-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Buffalo Sabres win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0215",
+        "0.9785"
+      ],
+      "volume": 339732.571852,
+      "liquidity": 91809.64795,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553852",
+      "question": "Will the Pittsburgh Penguins win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-pittsburgh-penguins-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Pittsburgh Penguins win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0225",
+        "0.9775"
+      ],
+      "volume": 396679.057119,
+      "liquidity": 84431.20796,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553853",
+      "question": "Will the Seattle Kraken win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-seattle-kraken-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Seattle Kraken win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.008",
+        "0.992"
+      ],
+      "volume": 352445.92288,
+      "liquidity": 108503.66732,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553854",
+      "question": "Will the Chicago Blackhawks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-chicago-blackhawks-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the Chicago Blackhawks win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.004",
+        "0.996"
+      ],
+      "volume": 470942.154533,
+      "liquidity": 144374.40936,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553855",
+      "question": "Will the San Jose Sharks win the 2026 NHL Stanley Cup?",
+      "slug": "will-the-san-jose-sharks-win-the-2026-nhl-stanley-cup",
+      "description": "This market will resolve to “Yes” if the San Jose Sharks win the 2026 NHL Stanley Cup. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NHL Stanley Cup based off the rules of the NHL.\n\nThe resolution source for this market will be information from the NHL.\n",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0065",
+        "0.9935"
+      ],
+      "volume": 369707.149459,
+      "liquidity": 86723.47307,
+      "end_date": "2026-06-30T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nhl-stanley-cup-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553856",
+      "question": "Will the Oklahoma City Thunder win the 2026 NBA Finals?",
+      "slug": "will-the-oklahoma-city-thunder-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Oklahoma City Thunder win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.355",
+        "0.645"
+      ],
+      "volume": 3750091.611138,
+      "liquidity": 285980.3657,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553857",
+      "question": "Will the Cleveland Cavaliers win the 2026 NBA Finals?",
+      "slug": "will-the-cleveland-cavaliers-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Cleveland Cavaliers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0625",
+        "0.9375"
+      ],
+      "volume": 2555047.444421,
+      "liquidity": 147072.89993,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553858",
+      "question": "Will the New York Knicks win the 2026 NBA Finals?",
+      "slug": "will-the-new-york-knicks-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the New York Knicks win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.055",
+        "0.945"
+      ],
+      "volume": 2200559.822259,
+      "liquidity": 275754.0052,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553859",
+      "question": "Will the Minnesota Timberwolves win the 2026 NBA Finals?",
+      "slug": "will-the-minnesota-timberwolves-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Minnesota Timberwolves win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0275",
+        "0.9725"
+      ],
+      "volume": 2943481.833262,
+      "liquidity": 186940.42818,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553860",
+      "question": "Will the Houston Rockets win the 2026 NBA Finals?",
+      "slug": "will-the-houston-rockets-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Houston Rockets win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0405",
+        "0.9595"
+      ],
+      "volume": 1898980.265437,
+      "liquidity": 205163.99039,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553861",
+      "question": "Will the Indiana Pacers win the 2026 NBA Finals?",
+      "slug": "will-the-indiana-pacers-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Indiana Pacers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0015",
+        "0.9985"
+      ],
+      "volume": 31473842.26517,
+      "liquidity": 482237.72014,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553862",
+      "question": "Will the Boston Celtics win the 2026 NBA Finals?",
+      "slug": "will-the-boston-celtics-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Boston Celtics win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0555",
+        "0.9445"
+      ],
+      "volume": 3593573.139992,
+      "liquidity": 144905.19262,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553863",
+      "question": "Will the Los Angeles Lakers win the 2026 NBA Finals?",
+      "slug": "will-the-los-angeles-lakers-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Los Angeles Lakers win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0205",
+        "0.9795"
+      ],
+      "volume": 2879549.038922,
+      "liquidity": 272647.33584,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    },
+    {
+      "market_id": "553864",
+      "question": "Will the Orlando Magic win the 2026 NBA Finals?",
+      "slug": "will-the-orlando-magic-win-the-2026-nba-finals",
+      "description": "This market will resolve to “Yes” if the Orlando Magic win the 2026 NBA Finals. Otherwise, this market will resolve to “No”.\n\nThis market will resolve to “No” if it becomes impossible for this team to win the 2026 NBA Finals based off the rules of the NBA.\n\nThe resolution source for this market will be information from the NBA.",
+      "outcomes": [
+        "Yes",
+        "No"
+      ],
+      "current_prices": [
+        "0.0075",
+        "0.9925"
+      ],
+      "volume": 2902840.74795,
+      "liquidity": 498401.21123,
+      "end_date": "2026-07-01T00:00:00Z",
+      "url": "https://polymarket.com/event/2026-nba-champion",
+      "platform": "polymarket"
+    }
+  ],
+  "lastFetch": 1770785353140
+}

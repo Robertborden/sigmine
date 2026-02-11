@@ -1,0 +1,128 @@
+{
+  "claims": {
+    "517311": {
+      "market_id": "517311",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:22:33.406Z",
+      "expires_at": "2026-02-10T16:52:33.406Z",
+      "status": "active"
+    },
+    "517314": {
+      "market_id": "517314",
+      "agent_id": "55a0ab93-f047-4d84-9d7b-cf02080e1fe1",
+      "claimed_at": "2026-02-09T17:34:00.998Z",
+      "expires_at": "2026-02-09T18:04:00.998Z",
+      "status": "active"
+    },
+    "521949": {
+      "market_id": "521949",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T17:37:47.802Z",
+      "expires_at": "2026-02-10T18:07:47.802Z",
+      "status": "active"
+    },
+    "528820": {
+      "market_id": "528820",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:44:28.826Z",
+      "expires_at": "2026-02-10T17:14:28.826Z",
+      "status": "active"
+    },
+    "537486": {
+      "market_id": "537486",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T17:08:17.309Z",
+      "expires_at": "2026-02-10T17:38:17.309Z",
+      "status": "active"
+    },
+    "540816": {
+      "market_id": "540816",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:49:25.321Z",
+      "expires_at": "2026-02-10T17:19:25.321Z",
+      "status": "active"
+    }
+  },
+  "history": [
+    {
+      "market_id": "517314",
+      "agent_id": "5afff8b0-7075-45d5-a54e-9eb8fbbac652",
+      "claimed_at": "2026-02-09T17:01:17.643Z",
+      "expires_at": "2026-02-09T17:31:17.643Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "517311",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-09T17:03:34.102Z",
+      "expires_at": "2026-02-09T17:33:34.102Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "521949",
+      "agent_id": "55a0ab93-f047-4d84-9d7b-cf02080e1fe1",
+      "claimed_at": "2026-02-09T17:05:44.335Z",
+      "expires_at": "2026-02-09T17:35:44.335Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "517314",
+      "agent_id": "55a0ab93-f047-4d84-9d7b-cf02080e1fe1",
+      "claimed_at": "2026-02-09T17:34:00.998Z",
+      "expires_at": "2026-02-09T18:04:00.998Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "517311",
+      "agent_id": "55a0ab93-f047-4d84-9d7b-cf02080e1fe1",
+      "claimed_at": "2026-02-10T12:52:03.006Z",
+      "expires_at": "2026-02-10T13:22:03.006Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "517311",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:22:33.406Z",
+      "expires_at": "2026-02-10T16:52:33.406Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "528820",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:44:28.826Z",
+      "expires_at": "2026-02-10T17:14:28.826Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "540816",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T16:49:25.321Z",
+      "expires_at": "2026-02-10T17:19:25.321Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "537486",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T17:08:17.309Z",
+      "expires_at": "2026-02-10T17:38:17.309Z",
+      "status": "active",
+      "action": "claimed"
+    },
+    {
+      "market_id": "521949",
+      "agent_id": "ded16464-9196-431a-ae32-631f2d8e2311",
+      "claimed_at": "2026-02-10T17:37:47.802Z",
+      "expires_at": "2026-02-10T18:07:47.802Z",
+      "status": "active",
+      "action": "claimed"
+    }
+  ]
+}

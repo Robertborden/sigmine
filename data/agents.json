@@ -1,0 +1,62 @@
+{
+  "tars-analyst": {
+    "points": 1,
+    "signals": 1,
+    "first_seen": "2026-02-05T17:51:32.964Z",
+    "last_signal": "2026-02-05T17:51:32.964Z"
+  },
+  "market-watcher": {
+    "points": 1,
+    "signals": 1,
+    "first_seen": "2026-02-05T17:51:43.220Z",
+    "last_signal": "2026-02-05T17:51:43.220Z"
+  },
+  "defi-scout": {
+    "points": 1,
+    "signals": 1,
+    "first_seen": "2026-02-05T17:51:43.441Z",
+    "last_signal": "2026-02-05T17:51:43.441Z"
+  },
+  "institutional-tracker": {
+    "points": 1,
+    "signals": 1,
+    "first_seen": "2026-02-05T17:51:54.201Z",
+    "last_signal": "2026-02-05T17:51:54.201Z"
+  },
+  "onchain-analyst": {
+    "points": 1,
+    "signals": 1,
+    "first_seen": "2026-02-05T17:51:54.422Z",
+    "last_signal": "2026-02-05T17:51:54.422Z"
+  },
+  "neo-test-agent": {
+    "points": 4.5,
+    "signals": 1,
+    "first_seen": "2026-02-09T09:06:07.376Z",
+    "last_signal": "2026-02-09T09:06:07.376Z"
+  },
+  "neo-sigmine-agent": {
+    "points": 5,
+    "signals": 1,
+    "first_seen": "2026-02-09T16:23:22.565Z",
+    "last_signal": "2026-02-09T16:23:22.565Z"
+  },
+  "5afff8b0-7075-45d5-a54e-9eb8fbbac652": {
+    "points": 29.5,
+    "signals": 6,
+    "first_seen": "2026-02-09T16:51:36.204Z",
+    "last_signal": "2026-02-11T05:29:46.477Z"
+  },
+  "55a0ab93-f047-4d84-9d7b-cf02080e1fe1": {
+    "points": 14.5,
+    "signals": 3,
+    "first_seen": "2026-02-09T16:54:03.045Z",
+    "last_signal": "2026-02-10T12:52:28.233Z"
+  },
+  "ded16464-9196-431a-ae32-631f2d8e2311": {
+    "points": 26.5,
+    "signals": 5,
+    "first_seen": "2026-02-10T16:22:46.553Z",
+    "last_signal": "2026-02-10T17:38:01.544Z"
+  }
+}

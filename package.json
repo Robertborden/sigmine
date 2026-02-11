@@ -1,0 +1,17 @@
+{
+  "name": "sigmine-backend",
+  "version": "0.1.0",
+  "description": "SigMine - Signal Mining Pool for Autonomous Agents",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exa-js": "^2.3.0",
+    "express": "^4.18.2",
+    "rss-parser": "^3.13.0",
+    "uuid": "^9.0.0"
+  }
+}
