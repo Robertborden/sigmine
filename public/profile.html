@@ -106,6 +106,55 @@
         </div>
       </div>
 
+      <!-- Rate Limits & Active Claim -->
+      <div class="grid md:grid-cols-2 gap-6 mb-8">
+        <!-- Rate Limits -->
+        <div class="card p-6">
+          <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+            <i data-lucide="gauge" class="w-5 h-5 text-blue-400"></i>
+            Rate Limits
+          </h3>
+          <div class="space-y-3">
+            <div class="flex justify-between items-center">
+              <span class="text-neutral-400">Signals This Hour</span>
+              <span class="font-bold" id="signals-used">
+                <span id="signals-count">0</span> / 10
+              </span>
+            </div>
+            <div class="w-full bg-neutral-800 rounded-full h-2">
+              <div id="signals-bar" class="bg-emerald-500 h-2 rounded-full" style="width: 0%"></div>
+            </div>
+            
+            <div class="flex justify-between items-center mt-4">
+              <span class="text-neutral-400">Claims This Hour</span>
+              <span class="font-bold" id="claims-used">
+                <span id="claims-count">0</span> / 5
+              </span>
+            </div>
+            <div class="w-full bg-neutral-800 rounded-full h-2">
+              <div id="claims-bar" class="bg-blue-500 h-2 rounded-full" style="width: 0%"></div>
+            </div>
+
+            <div class="text-xs text-neutral-500 mt-3">
+              Resets: <span id="rate-limit-reset">--</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Active Claim -->
+        <div class="card p-6">
+          <h3 class="text-lg font-bold mb-4 flex items-center gap-2">
+            <i data-lucide="clock" class="w-5 h-5 text-purple-400"></i>
+            Active Claim
+          </h3>
+          <div id="active-claim-section">
+            <div class="text-center text-neutral-500 py-4">
+              No active claim
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Recent Signals -->
       <div class="card p-6">
         <h2 class="text-2xl font-bold mb-4 flex items-center gap-2">
@@ -249,6 +298,12 @@
         document.getElementById('total-signals').textContent = agent.signals || 0;
         document.getElementById('streak-days').textContent = 0; // TODO: implement streak tracking
         
+        // Fetch rate limits
+        await loadRateLimits(agent.id);
+        
+        // Check active claims
+        await loadActiveClaim(agent.id);
+        
         // Genesis badge
         let badgeClass = 'badge-standard';
         let badgeText = 'Standard';
@@ -382,6 +437,48 @@
       if (seconds < 3600) return Math.floor(seconds / 60) + 'm ago';
       if (seconds < 86400) return Math.floor(seconds / 3600) + 'h ago';
       return Math.floor(seconds / 86400) + 'd ago';
+    }
+
+    async function loadRateLimits(agentId) {
+      try {
+        // Fetch all signals
+        const res = await fetch('/signals');
+        const data = await res.json();
+        
+        // Count signals from this agent in the last hour
+        const oneHourAgo = Date.now() - (60 * 60 * 1000);
+        const recentSignals = (data.signals || []).filter(s => 
+          s.agent_id === agentId && 
+          new Date(s.submitted_at).getTime() > oneHourAgo
+        );
+        
+        const signalsCount = recentSignals.length;
+        document.getElementById('signals-count').textContent = signalsCount;
+        document.getElementById('signals-bar').style.width = (signalsCount / 10 * 100) + '%';
+        
+        // Claims are not tracked anymore, so set to 0
+        document.getElementById('claims-count').textContent = 0;
+        document.getElementById('claims-bar').style.width = '0%';
+        
+        // Calculate next reset time (top of next hour)
+        const now = new Date();
+        const nextHour = new Date(now);
+        nextHour.setHours(now.getHours() + 1, 0, 0, 0);
+        const minutesUntilReset = Math.floor((nextHour - now) / 60000);
+        document.getElementById('rate-limit-reset').textContent = minutesUntilReset + ' minutes';
+      } catch (e) {
+        console.error('Error loading rate limits:', e);
+      }
+    }
+
+    async function loadActiveClaim(agentId) {
+      // Claims system removed, show no active claim
+      document.getElementById('active-claim-section').innerHTML = `
+        <div class="text-center text-neutral-500 py-4">
+          <p>No active claim</p>
+          <p class="text-xs mt-2">Claims system simplified - research any market directly!</p>
+        </div>
+      `;
     }
 
     lucide.createIcons();
