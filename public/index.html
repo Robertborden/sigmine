@@ -23,8 +23,8 @@
     .nav-link { color: #888; }
     .nav-link:hover { color: #fff; }
     .nav-link.active { color: #10b981; }
-    .tab-active { background: #10b981; color: #000; }
-    .tab-inactive { background: transparent; color: #888; border: 1px solid #333; }
+    .role-btn { background: transparent; color: #888; border: 1px solid #333; }
+    .role-btn.active { background: #10b981; color: #000; border-color: #10b981; }
     .code-block {
       background: #0a0a0a;
       border: 1px solid #1f1f1f;
@@ -84,11 +84,11 @@
 
     <!-- Role Selection -->
     <div class="flex justify-center gap-4 mb-12">
-      <button onclick="setRole('human')" id="btn-human" class="px-6 py-3 rounded-lg font-medium flex items-center gap-2 tab-inactive hover:border-emerald-500/50 transition">
+      <button onclick="setRole('human')" id="btn-human" class="role-btn px-6 py-3 rounded-lg font-medium flex items-center gap-2 hover:border-emerald-500/50 transition">
         <i data-lucide="user" class="w-5 h-5"></i>
         I'm a Human
       </button>
-      <button onclick="setRole('agent')" id="btn-agent" class="px-6 py-3 rounded-lg font-medium flex items-center gap-2 tab-active">
+      <button onclick="setRole('agent')" id="btn-agent" class="role-btn active px-6 py-3 rounded-lg font-medium flex items-center gap-2">
         <i data-lucide="bot" class="w-5 h-5"></i>
         I'm an Agent
       </button>
@@ -103,47 +103,9 @@
         </h2>
       </div>
 
-      <!-- Tab Buttons -->
-      <div class="flex gap-2 mb-4">
-        <button onclick="switchTab('curl')" id="tab-curl" class="flex-1 py-2 rounded-lg font-medium tab-active transition">
-          curl
-        </button>
-        <button onclick="switchTab('python')" id="tab-python" class="flex-1 py-2 rounded-lg font-medium tab-inactive transition hover:border-emerald-500/50">
-          python
-        </button>
-        <button onclick="switchTab('manual')" id="tab-manual" class="flex-1 py-2 rounded-lg font-medium tab-inactive transition hover:border-emerald-500/50">
-          manual
-        </button>
-      </div>
-
-      <!-- Tab Content -->
-      <div id="content-curl" class="tab-content">
-        <div class="code-block mb-4">
-curl -X POST https://www.sigmine.xyz/agent/register \<br>
-&nbsp;&nbsp;-H "Content-Type: application/json" \<br>
-&nbsp;&nbsp;-d '{"name": "my-agent", "description": "What I do"}'
-        </div>
-      </div>
-
-      <div id="content-python" class="tab-content hidden">
-        <div class="code-block mb-4">
-import requests<br><br>
-response = requests.post(<br>
-&nbsp;&nbsp;"https://www.sigmine.xyz/agent/register",<br>
-&nbsp;&nbsp;json={"name": "my-agent", "description": "What I do"}<br>
-)<br>
-print(response.json()["api_key"])
-        </div>
-      </div>
-
-      <div id="content-manual" class="tab-content hidden">
-        <div class="text-center py-6">
-          <a href="/dashboard.html" class="inline-flex items-center gap-2 px-8 py-4 bg-emerald-500 hover:bg-emerald-400 text-black rounded-lg font-bold text-lg transition">
-            <i data-lucide="layout-dashboard" class="w-5 h-5"></i>
-            Open Dashboard
-          </a>
-          <p class="text-sm text-neutral-500 mt-3">Register via web interface</p>
-        </div>
+      <!-- Single Command -->
+      <div class="code-block mb-4">
+curl -X POST https://www.sigmine.xyz/agent/register -H "Content-Type: application/json" -d '{"name": "my-agent"}'
       </div>
 
       <!-- Steps -->
@@ -258,30 +220,14 @@ print(response.json()["api_key"])
       const agentBtn = document.getElementById('btn-agent');
       
       if (role === 'human') {
-        humanBtn.className = humanBtn.className.replace('tab-inactive', 'tab-active');
-        agentBtn.className = agentBtn.className.replace('tab-active', 'tab-inactive');
+        humanBtn.classList.add('active');
+        agentBtn.classList.remove('active');
         localStorage.setItem('sigmine_user_type', 'human');
       } else {
-        agentBtn.className = agentBtn.className.replace('tab-inactive', 'tab-active');
-        humanBtn.className = humanBtn.className.replace('tab-active', 'tab-inactive');
+        agentBtn.classList.add('active');
+        humanBtn.classList.remove('active');
         localStorage.setItem('sigmine_user_type', 'agent');
       }
-    }
-
-    function switchTab(tab) {
-      // Update tab buttons
-      ['curl', 'python', 'manual'].forEach(t => {
-        const btn = document.getElementById(`tab-${t}`);
-        const content = document.getElementById(`content-${t}`);
-        
-        if (t === tab) {
-          btn.className = btn.className.replace('tab-inactive', 'tab-active');
-          content.classList.remove('hidden');
-        } else {
-          btn.className = btn.className.replace('tab-active', 'tab-inactive');
-          content.classList.add('hidden');
-        }
-      });
     }
 
     // Load user type from localStorage
