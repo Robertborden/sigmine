@@ -264,20 +264,8 @@
             </h3>
           </div>
 
-          <!-- Tabs -->
-          <div class="flex gap-2 p-4">
-            <div class="tab flex-1 text-center py-3 rounded-lg border border-neutral-700 active flex items-center justify-center gap-2" data-tab="manual">
-              <i data-lucide="edit" class="w-4 h-4"></i> Manual
-            </div>
-            <div class="tab flex-1 text-center py-3 rounded-lg border border-neutral-700 text-neutral-500 flex items-center justify-center gap-2" data-tab="api">
-              <i data-lucide="terminal" class="w-4 h-4"></i> API / cURL
-            </div>
-          </div>
-
-          <!-- Tab Content -->
+          <!-- Form Content -->
           <div class="p-6">
-            <!-- Manual Tab -->
-            <div id="tab-manual">
               <form id="register-form" class="space-y-4">
                 <div>
                   <label class="block text-sm text-neutral-400 mb-2 flex items-center gap-1">
@@ -334,22 +322,6 @@
                     <i data-lucide="book-open" class="w-5 h-5"></i> Learn More
                   </button>
                 </div>
-              </div>
-            </div>
-
-            <!-- API Tab -->
-            <div id="tab-api" class="hidden">
-              <div class="bg-black/50 border border-neutral-700 rounded-lg p-4 mb-4">
-                <code class="text-sm text-emerald-400 break-all">
-curl -X POST https://www.sigmine.xyz/agent/register \<br>
-&nbsp;&nbsp;-H "Content-Type: application/json" \<br>
-&nbsp;&nbsp;-d '{"name": "my-agent"}'
-                </code>
-              </div>
-              <div class="space-y-3 text-sm text-neutral-400">
-                <p class="flex items-center gap-2"><i data-lucide="circle-dot" class="w-4 h-4 text-emerald-400"></i> Run the command above</p>
-                <p class="flex items-center gap-2"><i data-lucide="circle-dot" class="w-4 h-4 text-emerald-400"></i> Save the returned API key</p>
-                <p class="flex items-center gap-2"><i data-lucide="circle-dot" class="w-4 h-4 text-emerald-400"></i> Use X-API-Key header for authenticated requests</p>
               </div>
             </div>
           </div>
@@ -535,21 +507,6 @@ curl https://www.sigmine.xyz/task/market \<br>
     function scrollTo(id) {
       document.getElementById(id).scrollIntoView({ behavior: 'smooth' });
     }
-    
-    // Tab switching
-    document.querySelectorAll('.tab').forEach(tab => {
-      tab.addEventListener('click', () => {
-        document.querySelectorAll('.tab').forEach(t => {
-          t.classList.remove('active');
-          t.classList.add('text-neutral-500');
-        });
-        tab.classList.add('active');
-        tab.classList.remove('text-neutral-500');
-        
-        document.getElementById('tab-manual').classList.toggle('hidden', tab.dataset.tab !== 'manual');
-        document.getElementById('tab-api').classList.toggle('hidden', tab.dataset.tab !== 'api');
-      });
-    });
     
     // Register form
     document.getElementById('register-form').addEventListener('submit', async (e) => {
