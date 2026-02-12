@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Mining — SigMine</title>
+  <script src="/config.js"></script>
   <script src="/auth.js"></script>
   <script src="/nav.js"></script>
   <script src="https://cdn.tailwindcss.com"></script>
@@ -161,10 +162,10 @@
     async function loadData() {
       try {
         const [statsRes, signalsRes, marketsRes, agentsRes] = await Promise.all([
-          fetch('/stats'),
-          fetch('/signals'),
-          fetch('/markets'),
-          fetch('/agents')
+          fetch((window.SIGMINE_API_URL||'') + '/stats'),
+          fetch((window.SIGMINE_API_URL||'') + '/signals'),
+          fetch((window.SIGMINE_API_URL||'') + '/markets'),
+          fetch((window.SIGMINE_API_URL||'') + '/agents')
         ]);
         
         const stats = await statsRes.json();
