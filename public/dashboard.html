@@ -11,10 +11,10 @@
   <script src="https://unpkg.com/lucide@latest"></script>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
   <script>
-    // Protect page - require login
-    document.addEventListener('DOMContentLoaded', () => {
-      const auth = checkAuth();
-      if (!auth) return; // Will show login screen
+    // Protect page - require login and validate API key
+    document.addEventListener('DOMContentLoaded', async () => {
+      const isValid = await validateSession();
+      if (!isValid) return; // Will show login screen with reset notice
     });
   </script>
   <style>
